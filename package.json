@@ -6,7 +6,7 @@
   "scripts": {
     "star": "node .",
     "dev": "nodemon .",
-    "start": "npm run dev"
+    "start": "node index.js"
   },
   "author": "Jazmin Trujillo Eyzaguirre",
   "license": "ISC",

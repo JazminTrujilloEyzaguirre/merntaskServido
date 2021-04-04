@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "star": "node .",
-    "dev": "nodemon ."
+    "dev": "nodemon .",
+    "start": "npm run dev"
   },
   "author": "Jazmin Trujillo Eyzaguirre",
   "license": "ISC",

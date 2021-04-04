@@ -6,7 +6,6 @@
 .pnp.js
 
 # mas
-/config
 /variables.env
 
 # testing

@@ -1,4 +1,3 @@
-
 const express = require('express');
 const conectarDB = require('./config/db');
 const cors = require('cors');
@@ -27,4 +26,4 @@ app.use('/api/tareas', require('./routes/tareas'));
 // arrancar la app
 app.listen(port, '0.0.0.0', () => {
     console.log(`El servidor esta funcionando en el puerto ${port}`);
-});
+})
